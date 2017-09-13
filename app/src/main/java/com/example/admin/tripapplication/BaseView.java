@@ -5,4 +5,7 @@ package com.example.admin.tripapplication;
  */
 
 public interface BaseView {
+
+    void showError(String s);
+
 }

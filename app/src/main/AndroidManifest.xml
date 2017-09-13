@@ -9,16 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".LoginActivity">
+        <activity android:name=".view.loginactivity.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".TripListActivity" />
-        <activity android:name=".TripActivity" />
-        <activity android:name=".ProfileActivity"></activity>
+        <activity android:name=".view.triplistactivity.TripListActivity" />
+        <activity android:name=".view.tripactivity.TripActivity" />
+        <activity android:name=".view.profileactivity.ProfileActivity"/>
     </application>
 
 </manifest>
