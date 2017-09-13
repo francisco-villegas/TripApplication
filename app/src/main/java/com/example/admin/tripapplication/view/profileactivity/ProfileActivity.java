@@ -31,6 +31,6 @@ public class ProfileActivity extends AppCompatActivity {
     //TODO edit/add profile information
 
     //TODO get review information for user
-    
+
     //TODO write review for user
 }
