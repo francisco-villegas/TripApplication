@@ -10,4 +10,6 @@ public class TripActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_trip);
     }
+
+    //TODO get specified trip from database
 }

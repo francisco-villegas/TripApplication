@@ -5,4 +5,14 @@ package com.example.admin.tripapplication.data;
  */
 
 public class FirebaseHelper {
+
+    //TODO get user data with proper auth (need to change database auth)
+
+    //TODO get trip information
+
+    //TODO add trip information
+
+    //TODO get review information
+
+    //TODO add review information
 }

@@ -5,4 +5,9 @@ package com.example.admin.tripapplication.data;
  */
 
 public class PlacesHelper {
+
+    //TODO add autocomplete
+
+    //TODO add geolookup request
+
 }
